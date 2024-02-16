@@ -24,6 +24,6 @@ you will then be prompted with a series of basic questions.
 ![image](https://github.com/nofox1/SVP-Logo-Maker/assets/136627240/0cf3a5dc-1c09-41c0-9e2c-3232103b9faa)
 This is your console after doing the installtion process.
 
-## [Walk-Through Video](https://drive.google.com/file/d/1630rGZZ_4i77k00rrdoylPJTUtV8GeCj/view)
+## [Walk-Through Video](https://drive.google.com/file/d/12YJ-3RLKinV1JfkKRUPsb7Ky_haIo25m/view)
 ## Credits 
 https://github.com/nofox1
